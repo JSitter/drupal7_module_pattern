@@ -1,0 +1,2 @@
+<?
+drupal_set_message($message="Module Pattern is active!", $type="status", $repeat=FALSE);
